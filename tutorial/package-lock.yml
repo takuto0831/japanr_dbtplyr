@@ -1,0 +1,4 @@
+packages:
+  - git: https://github.com/emilyriederer/dbtplyr.git
+    revision: 1891b81585cce049d392d3f073d0e10c49fbc561
+sha1_hash: 160cf2ccc662cd63d4b8c3b7b99813da2910466e
