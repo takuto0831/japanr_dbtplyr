@@ -103,6 +103,8 @@ dbt deps
 - dbt docsを生成
 
 ```
-dbt docs generate
+dbt docs generate \
+  --select "+models/customers_features_agg.sql" \
+  --static
 dbt docs serve
 ```
